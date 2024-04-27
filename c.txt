@@ -1,0 +1,1 @@
+print("today maccabi must win")
